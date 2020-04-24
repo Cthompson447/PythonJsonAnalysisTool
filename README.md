@@ -1,2 +1,2 @@
 # PythonJsonAnalysisTool
-An attempt at analysing json with python.
+WIP - Analysing json with python.
